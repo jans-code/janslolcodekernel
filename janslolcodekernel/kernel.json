@@ -1,0 +1,3 @@
+{"argv":["python","-m","janslolcodekernel", "-f", "{connection_file}"],
+ "display_name":"LOLCODE"
+}
