@@ -1,5 +1,8 @@
-"""Kernel install helper"""
 #!/usr/bin/env python
+# *_* coding: utf-8 *_*
+
+"""Kernel installer"""
+
 import os
 import shutil
 from jupyter_client.kernelspec import KernelSpecManager
